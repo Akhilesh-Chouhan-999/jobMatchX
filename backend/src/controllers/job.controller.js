@@ -26,7 +26,6 @@ export const createJob = async (req , res) => {
 
     }
 }
-
 export const getJobs = async(req , res ) => {
     try {
         

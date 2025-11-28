@@ -27,6 +27,6 @@ const matchSchema = new mongoose.Schema({
     timestamps : true 
 }) ; 
 
-const Match = mongoose.Model("Match" , matchSchema) ; 
+const Match = mongoose.model("Match" , matchSchema) ; 
 
 export default Match ; 

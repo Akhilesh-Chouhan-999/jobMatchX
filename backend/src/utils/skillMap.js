@@ -1,0 +1,15 @@
+export const canonicalSkillMap = {
+  "react.js": "react",
+  "reactjs": "react",
+  "react native": "react",
+  "nodejs": "node",
+  "node.js": "node",
+  "express.js": "express",
+  "expressjs": "express",
+  "mongodb atlas": "mongodb",
+  "mongo db": "mongodb",
+  "ml": "machine learning",
+  "ai": "artificial intelligence",
+  "js": "javascript",
+  "typescript.js": "typescript",
+};

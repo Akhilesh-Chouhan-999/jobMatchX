@@ -16,12 +16,9 @@ router.post("/save", protect, saveJob);
 
 router.post("/apply", protect, applyJob);
 
-
 router.post("/ignore", protect, ignoreJob);
 
-
 router.get("/saved", protect, getSavedJobs);
-
 
 router.get("/applied", protect, getAppliedJobs);
 
